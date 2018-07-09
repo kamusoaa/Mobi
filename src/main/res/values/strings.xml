@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobio_TestApp</string>
+    <string name="recipe">Рецепты</string>
+    <string name="id">ID</string>
+    <string name="gameplay">Геймплей</string>
+    <string name="mobs">Мобы</string>
+    <string name="pro">PRO</string>
+    <string name="redstone">Редстоун</string>
+    <string name="craft">Крафт</string>
+    <string name="charms">Чары</string>
+    <string name="potion">Зелья</string>
+    <string name="beacon">Маяк</string>
+    <string name="stove">Плавка</string>
+    <string name="anvil">Починка</string>
+    <string name="info_text">Minecraft is a sandbox video game created by Swedish game developer Markus Persson, better know as Notch, who later went on to found Mojang, which has been the developer and publisher of Minecraft. The creative and building aspects of Minecraft allow players to build with a variety of different cubes in a 3D procedurally generated world. Other activities in the game include exploration, resource gathering, crafting, and combat.</string>
+</resources>
